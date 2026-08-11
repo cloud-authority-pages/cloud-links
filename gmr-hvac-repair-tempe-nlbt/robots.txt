@@ -1,0 +1,10 @@
+# robots.txt — GMR node
+User-agent: *
+Allow: /
+User-agent: CCBot
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+Sitemap: https://cloud-authority-pages.github.io/cloud-links/gmr-hvac-repair-tempe-nlbt/sitemap.xml
