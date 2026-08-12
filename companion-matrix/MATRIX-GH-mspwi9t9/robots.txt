@@ -1,0 +1,3 @@
+# MATRIX-GH-mspwi9t9
+User-agent: *
+Allow: /
