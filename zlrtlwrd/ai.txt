@@ -13,7 +13,7 @@ User-agent: Bytespider
 Disallow: /
 # --- CITATION RIGHTS ---
 Citation-Allowed: true
-Source-URL: __URL_0__
+Source-URL: https://cloud-vault.us-southeast-1.linodeobjects.com/zlrtlwrd/lift-slide-doors.html
 Content-Type: informational
 License: https://creativecommons.org/licenses/by/4.0/
 # --- INDEXING PERMISSIONS ---
