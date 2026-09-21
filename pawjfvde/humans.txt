@@ -1,0 +1,9 @@
+/* TEAM */
+Company: Skylights & Rooflights
+Website: https://skylightsrooflights.com
+Location: Christchurch 
+
+//* SITE */
+Published: 2026-09-15
+Language: English
+Doctype: HTML5
