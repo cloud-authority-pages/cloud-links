@@ -1,0 +1,9 @@
+/* TEAM */
+Company: Mias Angling & Scuba
+Website: https://miasangling.co.za/collections/fish-finders
+Location: Santon
+
+//* SITE */
+Published: 2026-08-12
+Language: English
+Doctype: HTML5
