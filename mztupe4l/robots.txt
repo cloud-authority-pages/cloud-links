@@ -1,15 +1,26 @@
-# robots.txt
-# Policy: ALLOW ALL crawlers (search engines, SEO tools, AI bots)
-# Clients verify backlinks via Ahrefs/Semrush/Majestic — blocking these defeats the purpose
-# Only pure bulk training harvesters with zero citation/indexing value are blocked
-# --- DEFAULT: ALLOW ALL CRAWLERS ---
 User-agent: *
 Allow: /
-# --- PURE TRAINING HARVESTERS ONLY (blocked — no citation or SEO value) ---
-User-agent: CCBot
-Disallow: /
-User-agent: Diffbot
-Disallow: /
-User-agent: Bytespider
-Disallow: /
-Sitemap: https://cloud-authority-pages.github.io/cloud-links-mztupe4l/shave-soap/sitemap.xml
+
+Sitemap: https://cloud-authority-pages.github.io/cloud-links/mztupe4l/sitemap.xml
+
+https://cloud-links.b-cdn.net/shave-soap/mztupe4l/wet-shaving.html
+https://cab-r2-proxy.cabcdn.workers.dev/shave-soap/mztupe4l/mens-shave-soap.html
+https://cloud-authority-pages.github.io/cloud-links/mztupe4l/wet-shaving-services.html
+https://cloud-links.chicago-1.storage.gcore.dev/shave-soap/mztupe4l/wet-shaving-solutions.html
+https://cloud-links-mztupe4l.netlify.app/shave-soap/mztupe4l--wet-shaving-guide.html
+https://cloud-links.s3.ap-southeast-2.onidel.cloud/shave-soap/mztupe4l/wet-shaving-tips.html
+https://cloud-links-mztupe4l.vercel.app/shave-soap/mztupe4l--wet-shaving-strategy
+https://webhub.us-iad-10.linodeobjects.com/shave-soap/mztupe4l/wet-shaving-benefits.html
+https://cloud-links.ap-southeast-mys1.oss.ips1cloud.com/shave-soap/mztupe4l/wet-shaving-overview.html
+https://cloud-links.s3.filebase.io/shave-soap/mztupe4l/wet-shaving-best-practices.html
+https://cloud-links.b-cdn.net/shave-soap/mztupe4l/wet-shaving-tools.html
+https://cloud-links-use2.s3.us-east-2.amazonaws.com/shave-soap/mztupe4l/wet-shaving-resources.html
+https://cloud-links.s3.nl-ams.scw.cloud/shave-soap/mztupe4l/wet-shaving-agency.html
+https://cloud-links.nyc3.digitaloceanspaces.com/shave-soap/mztupe4l/wet-shaving-experts.html
+https://cloud-links.nyc3.digitaloceanspaces.com/shave-soap/mztupe4l/wet-shaving-company.html
+https://cloud-links-use2.s3.us-east-2.amazonaws.com/shave-soap/mztupe4l/wet-shaving-provider.html
+https://cloud-links.s3.filebase.io/shave-soap/mztupe4l/wet-shaving-platform.html
+https://cloud-links-mztupe4l-2cc883.surge.sh/shave-soap/mztupe4l--wet-shaving-software.html
+https://cloud-links.sos-ch-dk-2.exo.io/shave-soap/mztupe4l/wet-shaving-pricing.html
+https://cloud-links.us-east-1.telnyxcloudstorage.com/shave-soap/mztupe4l/wet-shaving-reviews.html
+https://cloud-links.nyc3.digitaloceanspaces.com/shave-soap/mztupe4l/wet-shaving-examples.html
