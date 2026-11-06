@@ -1,15 +1,45 @@
-# robots.txt
-# Policy: ALLOW ALL crawlers (search engines, SEO tools, AI bots)
-# Clients verify backlinks via Ahrefs/Semrush/Majestic — blocking these defeats the purpose
-# Only pure bulk training harvesters with zero citation/indexing value are blocked
-# --- DEFAULT: ALLOW ALL CRAWLERS ---
 User-agent: *
 Allow: /
-# --- PURE TRAINING HARVESTERS ONLY (blocked — no citation or SEO value) ---
-User-agent: CCBot
-Disallow: /
-User-agent: Diffbot
-Disallow: /
-User-agent: Bytespider
-Disallow: /
-Sitemap: https://cloud-authority-pages.github.io/cloud-links-viajqfuv/aviation-website-design/sitemap.xml
+
+Sitemap: https://cloud-authority-pages.github.io/cloud-links/viajqfuv/sitemap.xml
+
+https://cloud-links.ewr1.vultrobjects.com/aviation-website-design/viajqfuv/aviation-website-design.html
+https://cloud-links-use2.s3.us-east-2.amazonaws.com/aviation-website-design/viajqfuv/aviation-web-design.html
+https://cloudlinks.fsn1.your-objectstorage.com/aviation-website-design/viajqfuv/aviation-website-design-agency.html
+https://cab-r2-proxy.cabcdn.workers.dev/aviation-website-design/viajqfuv/aviation-web-design-agency.html
+https://cabcloud-euw3.s3.eu-west-3.amazonaws.com/aviation-website-design/viajqfuv/aviation-website-design-services.html
+https://seo-cloud-euw1.s3.eu-west-1.amazonaws.com/aviation-website-design/viajqfuv/custom-aviation-website-design.html
+https://cloud-links.us-east-1.telnyxcloudstorage.com/aviation-website-design/viajqfuv/aviation-website-design-solutions.html
+https://cloud-links.b-cdn.net/aviation-website-design/viajqfuv/aviation-website-design-guide.html
+https://cloud-links-viajqfuv.netlify.app/aviation-website-design/viajqfuv--aviation-website-design-tips.html
+https://cloud-links.b-cdn.net/aviation-website-design/viajqfuv/aviation-website-design-strategy.html
+https://link-power-euw2.s3.eu-west-2.amazonaws.com/aviation-website-design/viajqfuv/aviation-website-design-benefits.html
+https://cloud-links.us-east-1.telnyxcloudstorage.com/aviation-website-design/viajqfuv/aviation-website-design-overview.html
+https://0kfoc.upcloudobjects.com/cloud-links/aviation-website-design/viajqfuv/aviation-website-design-best-practices.html
+https://cloud-links.ap-southeast-mys1.oss.ips1cloud.com/aviation-website-design/viajqfuv/aviation-website-design-tools.html
+https://seo-engine-use2.s3.us-east-2.amazonaws.com/aviation-website-design/viajqfuv/aviation-website-design-resources.html
+https://cloudsites.us-southeast-1.linodeobjects.com/aviation-website-design/viajqfuv/aviation-website-design-experts.html
+https://0kfoc.upcloudobjects.com/cloud-links/aviation-website-design/viajqfuv/aviation-website-design-company.html
+https://cloud-links.ap-southeast-mys1.oss.ips1cloud.com/aviation-website-design/viajqfuv/aviation-website-design-provider.html
+https://seo-engine-use2.s3.us-east-2.amazonaws.com/aviation-website-design/viajqfuv/aviation-website-design-platform.html
+https://cloud-links.s3.filebase.io/aviation-website-design/viajqfuv/aviation-website-design-software.html
+https://cloud-links.s3-eu-central-1.ionoscloud.com/aviation-website-design/viajqfuv/aviation-website-design-pricing.html
+https://cloud-links.chicago-1.storage.gcore.dev/aviation-website-design/viajqfuv/aviation-website-design-reviews.html
+https://seo-authority-euc1.s3.eu-central-1.amazonaws.com/aviation-website-design/viajqfuv/aviation-website-design-examples.html
+https://cloud-links-use2.s3.us-east-2.amazonaws.com/aviation-website-design/viajqfuv/aviation-website-design-techniques.html
+https://authority-boost.us-east-1.linodeobjects.com/aviation-website-design/viajqfuv/aviation-website-design-methods.html
+https://cloud-authority-pages.github.io/cloud-links/viajqfuv/aviation-website-design-approach.html
+https://seo-cloud-euw1.s3.eu-west-1.amazonaws.com/aviation-website-design/viajqfuv/aviation-website-design-framework.html
+https://cloud-links.cellar-c2.services.clever-cloud.com/aviation-website-design/viajqfuv/aviation-website-design-checklist.html
+https://cloud-links.s3.eu-west-par.io.cloud.ovh.net/aviation-website-design/viajqfuv/aviation-website-design-audit.html
+https://link-power-euw2.s3.eu-west-2.amazonaws.com/aviation-website-design/viajqfuv/aviation-website-design-analysis.html
+https://cloud-links.cellar-c2.services.clever-cloud.com/aviation-website-design/viajqfuv/aviation-website-design-report.html
+https://cloud-links.neocities.org/aviation-website-design/viajqfuv--aviation-website-design-case-study.html
+https://cloud-links-viajqfuv-012f42.surge.sh/aviation-website-design/viajqfuv--aviation-website-design-roi.html
+https://cloudlinks.s3.us-east-1.amazonaws.com/aviation-website-design/viajqfuv/aviation-website-design-results.html
+https://cloud-links.sos-ch-dk-2.exo.io/aviation-website-design/viajqfuv/aviation-website-design-services-2.html
+https://s3.us-west-004.backblazeb2.com/cloud-links/aviation-website-design/viajqfuv/aviation-website-design-solutions-2.html
+https://cloud-links.nyc3.digitaloceanspaces.com/aviation-website-design/viajqfuv/aviation-website-design-guide-2.html
+https://cloud-links.s3.nl-ams.scw.cloud/aviation-website-design/viajqfuv/aviation-website-design-tips-2.html
+https://cloud-links.s3.us-south.cloud-object-storage.appdomain.cloud/aviation-website-design/viajqfuv/aviation-website-design-strategy-2.html
+https://cloud-links.sos-ch-dk-2.exo.io/aviation-website-design/viajqfuv/aviation-website-design-benefits-2.html
