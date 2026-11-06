@@ -1,15 +1,45 @@
-# robots.txt
-# Policy: ALLOW ALL crawlers (search engines, SEO tools, AI bots)
-# Clients verify backlinks via Ahrefs/Semrush/Majestic — blocking these defeats the purpose
-# Only pure bulk training harvesters with zero citation/indexing value are blocked
-# --- DEFAULT: ALLOW ALL CRAWLERS ---
 User-agent: *
 Allow: /
-# --- PURE TRAINING HARVESTERS ONLY (blocked — no citation or SEO value) ---
-User-agent: CCBot
-Disallow: /
-User-agent: Diffbot
-Disallow: /
-User-agent: Bytespider
-Disallow: /
-Sitemap: https://cloud-authority-pages.github.io/cloud-links-4qbc-9sc/assisted-living/sitemap.xml
+
+Sitemap: https://cloud-authority-pages.github.io/cloud-links/4qbc-9sc/sitemap.xml
+
+https://cloud-links.b-cdn.net/assisted-living/4qbc-9sc/memory-care-facilities-near-me.html
+https://cloud-hub.br-gru-1.linodeobjects.com/assisted-living/4qbc-9sc/seniorcare-homes.html
+https://cloud-authority-pages.github.io/cloud-links/4qbc-9sc/assisted-living-facility-charlotte-nc.html
+https://cloud-links.s3.us-south.cloud-object-storage.appdomain.cloud/assisted-living/4qbc-9sc/assisted-living-in-charlotte.html
+https://0kfoc.upcloudobjects.com/cloud-links/assisted-living/4qbc-9sc/assisted-living-charlotte-nc.html
+https://link-force-afsou.s3.af-south-1.amazonaws.com/assisted-living/4qbc-9sc/assisted-living-in-charlotte-nc.html
+https://cloud-links.chicago-1.storage.gcore.dev/assisted-living/4qbc-9sc/nursing-homes-with-memory-care-near-me.html
+https://cloud-links.nyc3.digitaloceanspaces.com/assisted-living/4qbc-9sc/dementia-facilities-near-me.html
+https://cloud-links-use2.s3.us-east-2.amazonaws.com/assisted-living/4qbc-9sc/memory-care-units-near-me.html
+https://cloud-links.s3.filebase.io/assisted-living/4qbc-9sc/assisted-living-facilities-in-nc.html
+https://cloud-engine-apne3.s3.ap-northeast-3.amazonaws.com/assisted-living/4qbc-9sc/memory-care-charlotte.html
+https://cloud-links.s3-eu-central-1.ionoscloud.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-services.html
+https://0kfoc.upcloudobjects.com/cloud-links/assisted-living/4qbc-9sc/memory-care-facilities-near-me-solutions.html
+https://cloud-links.s3.ap-southeast-2.onidel.cloud/assisted-living/4qbc-9sc/memory-care-facilities-near-me-guide.html
+https://authorityvault-eun1.s3.eu-north-1.amazonaws.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-tips.html
+https://cloud-links-use2.s3.us-east-2.amazonaws.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-strategy.html
+https://cloud-links.cellar-c2.services.clever-cloud.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-benefits.html
+https://object-storage.nz-por-1.catalystcloud.io/v1/AUTH_c332ce830ed4484498bccfc1d13947b3/cloud-links/assisted-living/4qbc-9sc/memory-care-facilities-near-me-overview.html
+https://link-engine.us-mia-1.linodeobjects.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-best-practices.html
+https://cloud-links.us-east-1.telnyxcloudstorage.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-tools.html
+https://cloud-links.ap-southeast-mys1.oss.ips1cloud.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-resources.html
+https://cloud-links.s3.eu-west-par.io.cloud.ovh.net/assisted-living/4qbc-9sc/memory-care-facilities-near-me-agency.html
+https://cloudseo.us-mia-1.linodeobjects.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-experts.html
+https://cloud-links.chicago-1.storage.gcore.dev/assisted-living/4qbc-9sc/memory-care-facilities-near-me-company.html
+https://cloudsites.us-southeast-1.linodeobjects.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-provider.html
+https://cloud-links.s3.nl-ams.scw.cloud/assisted-living/4qbc-9sc/memory-care-facilities-near-me-platform.html
+https://authorityvault-eun1.s3.eu-north-1.amazonaws.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-software.html
+https://cab-r2-proxy.cabcdn.workers.dev/assisted-living/4qbc-9sc/memory-care-facilities-near-me-pricing.html
+https://cloud-links.ewr1.vultrobjects.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-reviews.html
+https://seo-boost-euw2.s3.eu-west-2.amazonaws.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-examples.html
+https://cloud-links.nyc3.digitaloceanspaces.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-techniques.html
+https://cloud-links.ewr1.vultrobjects.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-methods.html
+https://s3.us-west-004.backblazeb2.com/cloud-links/assisted-living/4qbc-9sc/memory-care-facilities-near-me-approach.html
+https://cloud-links.sos-ch-dk-2.exo.io/assisted-living/4qbc-9sc/memory-care-facilities-near-me-framework.html
+https://s3.us-west-004.backblazeb2.com/cloud-links/assisted-living/4qbc-9sc/memory-care-facilities-near-me-checklist.html
+https://cloud-links.nyc3.digitaloceanspaces.com/assisted-living/4qbc-9sc/memory-care-facilities-near-me-audit.html
+https://cloud-links.sos-ch-dk-2.exo.io/assisted-living/4qbc-9sc/memory-care-facilities-near-me-analysis.html
+https://cloud-links.s3.nl-ams.scw.cloud/assisted-living/4qbc-9sc/memory-care-facilities-near-me-report.html
+https://cloud-links.s3.us-south.cloud-object-storage.appdomain.cloud/assisted-living/4qbc-9sc/memory-care-facilities-near-me-case-study.html
+https://s3.us-west-004.backblazeb2.com/cloud-links/assisted-living/4qbc-9sc/memory-care-facilities-near-me-roi.html
