@@ -1,15 +1,45 @@
-# robots.txt
-# Policy: ALLOW ALL crawlers (search engines, SEO tools, AI bots)
-# Clients verify backlinks via Ahrefs/Semrush/Majestic — blocking these defeats the purpose
-# Only pure bulk training harvesters with zero citation/indexing value are blocked
-# --- DEFAULT: ALLOW ALL CRAWLERS ---
 User-agent: *
 Allow: /
-# --- PURE TRAINING HARVESTERS ONLY (blocked — no citation or SEO value) ---
-User-agent: CCBot
-Disallow: /
-User-agent: Diffbot
-Disallow: /
-User-agent: Bytespider
-Disallow: /
-Sitemap: https://cloud-authority-pages.github.io/cloud-links-bqjgr2ad/cpa/sitemap.xml
+
+Sitemap: https://cloud-authority-pages.github.io/cloud-links/bqjgr2ad/sitemap.xml
+
+https://cloud-links-use2.s3.us-east-2.amazonaws.com/cpa/bqjgr2ad/cpa-plano-texas.html
+https://cloud-links.s3.ap-southeast-2.onidel.cloud/cpa/bqjgr2ad/cpa-dallas.html
+https://cloud-links.cellar-c2.services.clever-cloud.com/cpa/bqjgr2ad/cpa-for-doctors-dallas.html
+https://cloudlinks.s3.us-east-1.amazonaws.com/cpa/bqjgr2ad/medical-practice-cpa-dfw.html
+https://cloud-links.nyc3.digitaloceanspaces.com/cpa/bqjgr2ad/cpa-for-real-estate-investors-dallas.html
+https://authorityvault.id-cgk-1.linodeobjects.com/cpa/bqjgr2ad/tax-planning-for-physicians.html
+https://cab-r2-proxy.cabcdn.workers.dev/cpa/bqjgr2ad/proactive-cpa-near-me.html
+https://cloud-authority-pages.github.io/cloud-links/bqjgr2ad/cpa-plano-texas-services.html
+https://cloud-links.s3.nl-ams.scw.cloud/cpa/bqjgr2ad/cpa-plano-texas-solutions.html
+https://authoritylinks-usw2.s3.us-west-2.amazonaws.com/cpa/bqjgr2ad/cpa-plano-texas-guide.html
+https://seo-hub.us-east-1.linodeobjects.com/cpa/bqjgr2ad/cpa-plano-texas-tips.html
+https://storage.googleapis.com/cloud-links-360512/cpa/bqjgr2ad/cpa-plano-texas-strategy.html
+https://j6a4.c18.e2-5.dev/cloud-links/cpa/bqjgr2ad/cpa-plano-texas-benefits.html
+https://s3.us-east-1.wasabisys.com/linkhub/cpa/bqjgr2ad/cpa-plano-texas-overview.html
+https://seocloud-apne1.s3.ap-northeast-1.amazonaws.com/cpa/bqjgr2ad/cpa-plano-texas-best-practices.html
+https://cloudsites.us-southeast-1.linodeobjects.com/cpa/bqjgr2ad/cpa-plano-texas-tools.html
+https://cloud-links.s3.filebase.io/cpa/bqjgr2ad/cpa-plano-texas-resources.html
+https://cloud-links.s3-eu-central-1.ionoscloud.com/cpa/bqjgr2ad/cpa-plano-texas-agency.html
+https://cloud-links-apne2.s3.ap-northeast-2.amazonaws.com/cpa/bqjgr2ad/cpa-plano-texas-experts.html
+https://0kfoc.upcloudobjects.com/cloud-links/cpa/bqjgr2ad/cpa-plano-texas-company.html
+https://0kfoc.upcloudobjects.com/cloud-links/cpa/bqjgr2ad/cpa-plano-texas-provider.html
+https://cloud-links.b-cdn.net/cpa/bqjgr2ad/cpa-plano-texas-platform.html
+https://cloud-link.s3.fr-par.scw.cloud/cpa/bqjgr2ad/cpa-plano-texas-software.html
+https://cloud-links.ap-southeast-mys1.oss.ips1cloud.com/cpa/bqjgr2ad/cpa-plano-texas-pricing.html
+https://object-storage.nz-por-1.catalystcloud.io/v1/AUTH_c332ce830ed4484498bccfc1d13947b3/cloud-links/cpa/bqjgr2ad/cpa-plano-texas-reviews.html
+https://cloud-links.chicago-1.storage.gcore.dev/cpa/bqjgr2ad/cpa-plano-texas-examples.html
+https://cloud-links-bqjgr2ad-cc92af.surge.sh/cpa/bqjgr2ad--cpa-plano-texas-techniques.html
+https://cloud-links.ewr1.vultrobjects.com/cpa/bqjgr2ad/cpa-plano-texas-methods.html
+https://s3.us-west-004.backblazeb2.com/cloud-links/cpa/bqjgr2ad/cpa-plano-texas-approach.html
+https://webhub-usw1.s3.us-west-1.amazonaws.com/cpa/bqjgr2ad/cpa-plano-texas-framework.html
+https://cloudlinks.fsn1.your-objectstorage.com/cpa/bqjgr2ad/cpa-plano-texas-checklist.html
+https://cloud-links.s3.eu-west-par.io.cloud.ovh.net/cpa/bqjgr2ad/cpa-plano-texas-audit.html
+https://authority-cloud.us-sea-1.linodeobjects.com/cpa/bqjgr2ad/cpa-plano-texas-analysis.html
+https://s3.us-east-1.wasabisys.com/cloud-links/cpa/bqjgr2ad/cpa-plano-texas-report.html
+https://cloud-links.sos-ch-dk-2.exo.io/cpa/bqjgr2ad/cpa-plano-texas-case-study.html
+https://cloud-links.sos-ch-dk-2.exo.io/cpa/bqjgr2ad/cpa-plano-texas-roi.html
+https://cloud-links.s3.us-south.cloud-object-storage.appdomain.cloud/cpa/bqjgr2ad/cpa-plano-texas-results.html
+https://s3.us-west-004.backblazeb2.com/cloud-links/cpa/bqjgr2ad/cpa-plano-texas-services-2.html
+https://cloud-links.nyc3.digitaloceanspaces.com/cpa/bqjgr2ad/cpa-plano-texas-solutions-2.html
+https://linkauthority.us-east-1.linodeobjects.com/cpa/bqjgr2ad/cpa-plano-texas-guide-2.html
